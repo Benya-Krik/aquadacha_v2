@@ -8,7 +8,6 @@
 import HeaderComponent from './components/HeaderComponent.vue'
 import IndexComponent from './components/page/IndexComponent.vue'
 import FooterComponent from './components/FooterComponent.vue'
-
 export default {
   name: 'App',
   components: {
@@ -20,5 +19,4 @@ export default {
 </script>
 
 <style lang="scss">
-
 </style>
